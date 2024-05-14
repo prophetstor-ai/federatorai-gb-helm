@@ -2,6 +2,33 @@ apiVersion: v1
 entries:
   federatorai-gb:
   - apiVersion: v2
+    appVersion: 5.2.0-3019
+    created: "2024-05-14T11:53:33.576295526+08:00"
+    description: Federator.ai GPU Booster helps enterprises optimize GPU resources,
+      maximize application performance, and save significant cost without excessive
+      over-provisioning or under-provisioning of GPU resources, meeting the service-level
+      requirements of their applications.
+    digest: 8f70e8d21dcb3913cd29f6dd2ececebabaf05229dce793a34af1e2c99b95096c
+    home: https://www.prophetstor.com
+    icon: https://raw.githubusercontent.com/prophetstor-ai/public/master/images/logo.png
+    keywords:
+    - AI
+    - Resource Orchestration
+    - NoOps
+    - AIOps
+    - Intelligent Workload Management
+    - Cost Optimization
+    kubeVersion: '>= 1.18.0-0'
+    maintainers:
+    - email: support@prophetstor.com
+      name: ProphetStor Data Services, Inc.
+    name: federatorai-gb
+    sources:
+    - https://www.prophetstor.com
+    urls:
+    - federatorai-gb-5.2.0-3019.tgz
+    version: 5.2.0-3019
+  - apiVersion: v2
     appVersion: 5.2.0-3018
     created: "2024-05-08T00:17:19.507003186+08:00"
     description: Federator.ai GPU Booster helps enterprises optimize GPU resources,
@@ -109,4 +136,4 @@ entries:
     urls:
     - federatorai-gb-5.2.0-3013.tgz
     version: 5.2.0-3013
-generated: "2024-05-08T00:17:19.452937493+08:00"
+generated: "2024-05-14T11:53:33.519830944+08:00"
