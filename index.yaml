@@ -2,6 +2,35 @@ apiVersion: v1
 entries:
   federatorai-gb:
   - apiVersion: v2
+    appVersion: 5.2.2-3120
+    created: "2025-05-20T22:46:20.304050386+08:00"
+    description: Federator.ai GPU Booster is a cutting-edge solution designed to optimize
+      GPU resources on Kubernetes platforms using patented algorithms. Ideal for businesses
+      with high-end NVIDIA GPUs, it streamlines GPU management and enhancement, particularly
+      for MultiTenant AI model training. Federator.ai GPU Booster maximizes GPU utilization,
+      increasing training throughput and keeping your AI initiatives ahead of the
+      curve.
+    digest: ffdab2d8fa0ebef30f7958cbf47faad8400a8eb77a3968de8ded884ee126719c
+    home: https://www.prophetstor.com
+    icon: https://raw.githubusercontent.com/prophetstor-ai/public/master/images/logo.png
+    keywords:
+    - AI
+    - Resource Orchestration
+    - NoOps
+    - AIOps
+    - Intelligent Workload Management
+    - Cost Optimization
+    kubeVersion: '>= 1.18.0-0'
+    maintainers:
+    - email: support@prophetstor.com
+      name: ProphetStor Data Services, Inc.
+    name: federatorai-gb
+    sources:
+    - https://www.prophetstor.com
+    urls:
+    - federatorai-gb-5.2.2-3120.tgz
+    version: 5.2.2-3120
+  - apiVersion: v2
     appVersion: 5.2.2-3106
     created: "2024-12-09T10:24:56.580643408+08:00"
     description: Federator.ai GPU Booster is a cutting-edge solution designed to optimize
@@ -329,6 +358,35 @@ entries:
     version: 5.2.0-3013
   federatorai-gb-addons:
   - apiVersion: v2
+    appVersion: 5.2.2-3120
+    created: "2025-05-20T22:46:20.309304331+08:00"
+    description: Federator.ai GPU Booster is a cutting-edge solution designed to optimize
+      GPU resources on Kubernetes platforms using patented algorithms. Ideal for businesses
+      with high-end NVIDIA GPUs, it streamlines GPU management and enhancement, particularly
+      for MultiTenant AI model training. Federator.ai GPU Booster maximizes GPU utilization,
+      increasing training throughput and keeping your AI initiatives ahead of the
+      curve.
+    digest: 5d95d0552cae377cd16653ebd97c7183b876219715bf2ccd2a6a9b8998c3c173
+    home: https://www.prophetstor.com
+    icon: https://raw.githubusercontent.com/prophetstor-ai/public/master/images/logo.png
+    keywords:
+    - AI
+    - Resource Orchestration
+    - NoOps
+    - AIOps
+    - Intelligent Workload Management
+    - Cost Optimization
+    kubeVersion: '>= 1.18.0-0'
+    maintainers:
+    - email: support@prophetstor.com
+      name: ProphetStor Data Services, Inc.
+    name: federatorai-gb-addons
+    sources:
+    - https://www.prophetstor.com
+    urls:
+    - federatorai-gb-addons-5.2.2-3120.tgz
+    version: 5.2.2-3120
+  - apiVersion: v2
     appVersion: 5.2.2-3106
     created: "2024-12-09T10:24:56.586753799+08:00"
     description: Federator.ai GPU Booster is a cutting-edge solution designed to optimize
@@ -438,4 +496,4 @@ entries:
     urls:
     - federatorai-gb-addons-5.2.1-3069.tgz
     version: 5.2.1-3069
-generated: "2024-12-09T10:24:56.446452196+08:00"
+generated: "2025-05-20T22:46:20.169402722+08:00"
